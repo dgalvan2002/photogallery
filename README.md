@@ -1,2 +1,1 @@
 # photogallery
-hg-pages
